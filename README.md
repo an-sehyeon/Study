@@ -72,16 +72,11 @@ Study
 │   ├── Network
 │   └── Database
 │
-├── Coding
-│   ├── Java
-│   ├── SQL
-│   └── Algorithm-Problem
-│
-└── Backend
-    ├── Spring-Boot
-    ├── JPA
-    ├── MyBatis
-    └── REST-API
+└── Coding
+    ├── Java
+    ├── SQL
+    └── Spring Boot
+
 ```
 
 ## 목표
