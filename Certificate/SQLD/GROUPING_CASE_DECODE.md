@@ -1,5 +1,7 @@
 # GROUPING / CASE / DECODE에 대해..
 
+<br>
+
 # 1. GROUPING 함수
 * ROLLUP이나 CUBE로 만들어진 소계/총계 행인지 구분하기 위해 사용하는 함수
 * 특정 컬럼이 집계에 사용되었는지 여부를 반환
@@ -84,6 +86,8 @@ FROM emp;
 | 범위 조건  | 불편함           | 편함              |
 | SQL 표준 | 아님            | 표준에 가까움         |
 * DECODE는 기본적으로 같은지 비교할 때 편함.
+
+<br><br>
 
 # 💡 CASE WHEN에는 두 가지 형태가 있음
 ## 1.단순 CASE
