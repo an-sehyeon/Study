@@ -72,3 +72,4 @@ SQLD 공부 내용을 과목과 개념 단위로 나누어 정리한 폴더
 ## 추가 개념 정리 예시
 
 - [엔터티 분류](./Entity_Classifications.md)
+- [GROUPING / CASE / DECODE](./GROUPING_CASE_DECODE.md)
