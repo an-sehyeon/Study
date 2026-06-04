@@ -19,7 +19,7 @@ https://example.com
 ```
 ➡️ DNS 조회<br>
 ```plantuml
-- 도메인 주소를 서버의 IP 주소로 변환.<br>
+- 도메인 주소를 서버의 IP 주소로 변환.
 example.com
 -> 123.123.123.123
 ```
@@ -66,7 +66,7 @@ GET / ...
 ```
 ➡️ Render Tree 생성<br>
 ```plantuml
-- DOM과 CSSOM을 결합하여 화면에 표시할 요소 정보를 생성.<br>
+- DOM과 CSSOM을 결합하여 화면에 표시할 요소 정보를 생성.
 DOM + CSSOM = Render Tree
 ```
 ➡️ Layout<br>
@@ -118,4 +118,4 @@ URL 입력<br>
 <hr>
 
 # 한 줄 정리
-**브라우저는 서버로부터 데이터를 받아 HTML, CSS, JavaScript를 해석한 후 DOM CSSOM, Render Tree를 생성하고 Layout -> Paint -> COmposite 과정을 거쳐 사용자에게 화면을 보여준다.**
+**브라우저는 서버로부터 데이터를 받아 HTML, CSS, JavaScript를 해석한 후 DOM CSSOM, Render Tree를 생성하고 Layout -> Paint -> Composite 과정을 거쳐 사용자에게 화면을 보여준다.**
