@@ -18,6 +18,7 @@
 | 06 | [네트워크 기초와 HDLC](./06-network-basics-and-hdlc.md) | OSI 7계층, PDU, 주요 포트, HDLC |
 | 07 | [CIDR와 서브넷팅](./07-cidr-and-subnetting.md) | CIDR 표기법, 서브넷 마스크, 주소 수와 호스트 수 계산 |
 | 08 | [응용 SW 기초 기술 활용](./08-sw-fundamentals.md) | 운영체제, 메모리, 네트워크, 오류 제어, 보안, RAID |
+| 09 | [시험 전날 최종 암기](./09-final-review.md) | 코드, SQL·DB, UML, 보안 보완 용어, 자료구조, 통합·패키징 |
 
 ---
 
@@ -35,7 +36,8 @@ Certificate/
     ├── 05-process-scheduling.md
     ├── 06-network-basics-and-hdlc.md
     ├── 07-cidr-and-subnetting.md
-    └── 08-sw-fundamentals.md
+    ├── 08-sw-fundamentals.md	
+    └── 09-final-review.md
 ```
 
 ---
